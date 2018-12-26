@@ -6,7 +6,8 @@
 
 Huginn is a system for building agents that perform automated tasks for you online.  They can read the web, watch for events, and take actions on your behalf.  Huginn's Agents create and consume events, propagating them along a directed graph.  Think of it as a hackable version of IFTTT or Zapier on your own server.  You always know who has your data.  You do.
 
-![the origin of the name](https://raw.githubusercontent.com/huginn/huginn/master/doc/imgs/the-name.png)
+![the origin of the name](https://raw.githubusercontent.com/huginn/huginn/master/doc/
+s/the-name.png)
 
 #### Here are some of the things that you can do with Huginn:
 
